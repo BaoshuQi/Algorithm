@@ -1,0 +1,2 @@
+i forgot the details about this solution, i traversed the list from beginning to end, to "fill" the cell as the boundary before itself, and then from end to beginning to "fill" the rest.
+i believe i could improve this solution more since i did some redundant work to simplify understanding to myself.
